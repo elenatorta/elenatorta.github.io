@@ -1,16 +1,22 @@
-## Research overview
+---
+layout: page
+title: "Research"
+permalink: /research/
+---
 
-My research focuses on **collaborative robotics**, i.e. systems with multiple robotic agents that collaborate with each others and or with humans.
-Collaboration entails sharing of knowledge, skills or resources among the team members to achive a common goal
+## Research focus
 
-Typical questions I work on include:
+My research aims at **enhancing the autonomy of collaborative robot systems** across
+different domains, including:
 
-- How can robots coordinate their motions in dynamic environments such that their actions are   **safe**, yet **efficient**? 
-- How can we represent the prior and current knowledge about the environment to enable **effective** and **efficient** decision-making of collaborative robots?
-- How do we design robot control software in oder to make interaction with humans smooth, efficient and understandable?
+- **Medical and image-guided robots** (e.g., behavioral autonomy for medical robots)
+- **Infrastructure inspection** (e.g., autonomous aerial radiography of wind turbine blades)
+- **Agri-food and industrial robotics**
+- **Cooperative mobile robots and robotic collectives**
 
-## Current themes
+I adopt a **system-level perspective** that connects:
 
-- Geometric collaboration
-- Semantic collaboration
-- Human-robot collaboration
+- **Control**  
+- **Semantic and probabilistic world models**  
+- **Human–robot interaction, intention prediction, and safety** :contentReference[oaicite:3]{index=3}  
+
