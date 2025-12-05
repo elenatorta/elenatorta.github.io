@@ -2,8 +2,11 @@
 layout: page
 title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
 
-## Full list
+## Ongoing
 My list of projects
+
+## Ended
