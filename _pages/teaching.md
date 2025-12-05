@@ -22,5 +22,5 @@ I teach and coordinate courses in robotics and control at TU/e.
 | **0LAUK0 Robots Everywhere** | BSc | 2020–2025 | 5 | Lecturer |
 | **HA800 Honors part 1 – High Tech Systems track** | BSc | 2020–2023 | 15 | Track coordinator | 
 | **HA850 Honors part 2 – High Tech Systems track** | BSc | 2020–2023 | 15 | Track coordinator |
----
+
 
