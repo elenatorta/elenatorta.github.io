@@ -16,6 +16,7 @@ I teach and coordinate courses in robotics and control at TU/e.
 
 
 ## Past Courses
+
 | Course | Level | Years | ECTS | Role |
 |-------|-------|-------|------|------|
 | **0HM280 Human–Robot Interaction** | MSc | 2022–2024 | 5 | Lecturer |
